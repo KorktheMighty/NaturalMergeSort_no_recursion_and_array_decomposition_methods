@@ -1,4 +1,4 @@
-# PYTHON__NaturalMergeSort-no-recursion-method-array-decomposition-method-
+#NaturalMergeSort_no_recursion_and_array_decomposition_methods-
 Code that shows a more efficient method of merge sort which uses array decomposition.
 
 This coding project was for a class "Advanced Data Structures & Algorthims" - the purpose was to find a professional paper  that speaks on a method/algothim that was discussed in class. My paper is on a more efficient form of merge sort, the 'natural merge sort" that uses array decomposition. 
