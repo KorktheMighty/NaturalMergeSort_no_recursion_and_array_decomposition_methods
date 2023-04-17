@@ -4,7 +4,7 @@ This coding project was for a class "Advanced Data Structures & Algorthims" - th
 
 The two python files consist of a file that has natural merge sort without recursion and one with array decomposition. The code randomly chooses numbers between 0-1000 and has a range of 500000 (this range and random value range can easily be changed to fit user needs). The code tracks the sorted array, the time taken, memory useage, and peak memory useage. 
 
-This code is free to be used but please credit me, Kirkland Grace, if this code is to be used in anyway.
+This code is free to be used but please credit me, Kirkland Grace, alongside the research paper if this code is to be used in anyway.
 
 
 
